@@ -2,6 +2,9 @@
 
 namespace ImageOptimizer
 {
+    /// <summary>
+    /// Represents the file size of an amount of data.
+    /// </summary>
     public struct FileSize
     {
         public FileSize(long bytes)
