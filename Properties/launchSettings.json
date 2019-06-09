@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImageOptimizer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Desktop\\IMG_20190608_211041Z.jpg\" \"D:\\Desktop\\IMG_20190608_211149Z.jpg\" \"D:\\Desktop\\IMG_20190608_211400Z.jpg\" \"D:\\Desktop\\IMG_20190608_211415Z.jpg\""
+    }
+  }
+}
